@@ -1,0 +1,6 @@
+ticket_id,start_station,end_station,price,path,instructionsad242e24-036f-4e1e-9123-8a9761b1233f,Central Secretariat,Rithala,30,"['Central Secretariat', 'Rajiv Chowk', 'Kashmere Gate', 'Rithala']","1. Start on **Yellow Line** from **Central Secretariat**.
+2. Change to **Red Line** at **Kashmere Gate**.
+3. Arrive at final destination **Rithala**."
+e589cc65-a186-4e12-baca-da36145af510,Rajiv Chowk,Rithala,20,"['Rajiv Chowk', 'Kashmere Gate', 'Rithala']","1. Start on **Yellow Line** from **Rajiv Chowk**.
+2. Change to **Red Line** at **Kashmere Gate**.
+3. Arrive at final destination **Rithala**."
